@@ -1,3 +1,5 @@
+* by Napolskiy Boris
+
 # Инструкция по работе с git
 
 ## Что это и для чего нужна система контроля версий?
@@ -10,7 +12,11 @@
 
 ### Установка VSCode на ваш ПК.
 
+Качаем [VSCode](https://code.visualstudio.com/) для Windows и устанавливаем.
+
 ### Установка git на ваш ПК
+
+Качаем [Git](https://github.com/git-guides/install-git) для Windows и устанавливаем с параметром "use VSCode as defautl editor".
 
 #### Первая настройка git
 
