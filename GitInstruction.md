@@ -23,6 +23,12 @@ blablabla
 
 ### Что такое репозиторий и инструкция по созданию локальных репозиториев.
 
+A repository is a place where any data is stored and maintained.
+Most often, the data in the repository is stored in the form
+of files available for further distribution over the network.
+
+git init - initialisation git in yout file / folder
+
 ### Базовая работа с локальным репозиторием
 
 ## Ветки. Локальная работа с ветками в git.
